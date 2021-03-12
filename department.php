@@ -9,35 +9,34 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+<nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container-fluid">
-          <a class="navbar-brand" href="D:\xampp\htdocs\department\index.php">RCSS</a>
+          <a class="navbar-brand" href="D:\xampp\htdocs\department\home.php">RCSS</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="D:\xampp\htdocs\department\index.php">Home</a>
+                <a class="nav-link active" aria-current="page" href="https://rcssdepartment.herokuapp.com/index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="D:\xampp\htdocs\department\contact.php">Contact</a>
+                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/contact.php">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="D:\xampp\htdocs\department\gallary.php">Gallery</a>
+                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/gallary.php">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="D:\xampp\htdocs\department\department.php">Department</a>
+                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/department.php">Department</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="D:\xampp\htdocs\department\about.php">About us</a>
+                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/about.php">About us</a>
               </li>
-             
-            </ul>
+              </ul>
           </div>
         </div>
       </nav>
-    <div class="container">
+      <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4">
                 <div class="card" style="width: 18rem;">

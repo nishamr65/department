@@ -24,7 +24,7 @@
                 <a class="nav-link" href="https://rcssdepartment.herokuapp.com/contact.php">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/gallery.php">Gallery</a>
+                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/gallary.php">Gallery</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://rcssdepartment.herokuapp.com/department.php">Department</a>
@@ -32,8 +32,7 @@
               <li class="nav-item">
                 <a class="nav-link" href="https://rcssdepartment.herokuapp.com/about.php">About us</a>
               </li>
-              
-            </ul>
+              </ul>
           </div>
         </div>
       </nav>
