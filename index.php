@@ -21,7 +21,7 @@
                 <a class="nav-link active" aria-current="page" href="D:\xampp\htdocs\department\index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="D:\xampp\htdocs\department\contact.php">Contact</a>
+                <a class="nav-link" href="https://rcssdepartment.herokuapp.com/contact.php">Contact</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="D:\xampp\htdocs\department\gallary.php">Gallery</a>
